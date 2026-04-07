@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0d0d0d;
+  color: #fff;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #000, #111);
+}
+
+.hero h1 {
+  font-size: 48px;
+  color: gold;
+}
+
+section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background: #1a1a1a;
+  padding: 20px;
+  border: 1px solid gold;
+  width: 200px;
+}
